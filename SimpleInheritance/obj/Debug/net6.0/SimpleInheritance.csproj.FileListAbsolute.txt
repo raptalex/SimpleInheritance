@@ -1,0 +1,15 @@
+C:\Users\arapt\source\repos\SimpleInheritance\SimpleInheritance\obj\Debug\net6.0\SimpleInheritance.csproj.AssemblyReference.cache
+C:\Users\arapt\source\repos\SimpleInheritance\SimpleInheritance\obj\Debug\net6.0\SimpleInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arapt\source\repos\SimpleInheritance\SimpleInheritance\obj\Debug\net6.0\SimpleInheritance.AssemblyInfoInputs.cache
+C:\Users\arapt\source\repos\SimpleInheritance\SimpleInheritance\obj\Debug\net6.0\SimpleInheritance.AssemblyInfo.cs
+C:\Users\arapt\source\repos\SimpleInheritance\SimpleInheritance\obj\Debug\net6.0\SimpleInheritance.csproj.CoreCompileInputs.cache
+C:\Users\arapt\source\repos\SimpleInheritance\SimpleInheritance\bin\Debug\net6.0\SimpleInheritance.exe
+C:\Users\arapt\source\repos\SimpleInheritance\SimpleInheritance\bin\Debug\net6.0\SimpleInheritance.deps.json
+C:\Users\arapt\source\repos\SimpleInheritance\SimpleInheritance\bin\Debug\net6.0\SimpleInheritance.runtimeconfig.json
+C:\Users\arapt\source\repos\SimpleInheritance\SimpleInheritance\bin\Debug\net6.0\SimpleInheritance.dll
+C:\Users\arapt\source\repos\SimpleInheritance\SimpleInheritance\bin\Debug\net6.0\SimpleInheritance.pdb
+C:\Users\arapt\source\repos\SimpleInheritance\SimpleInheritance\obj\Debug\net6.0\SimpleInheritance.dll
+C:\Users\arapt\source\repos\SimpleInheritance\SimpleInheritance\obj\Debug\net6.0\refint\SimpleInheritance.dll
+C:\Users\arapt\source\repos\SimpleInheritance\SimpleInheritance\obj\Debug\net6.0\SimpleInheritance.pdb
+C:\Users\arapt\source\repos\SimpleInheritance\SimpleInheritance\obj\Debug\net6.0\SimpleInheritance.genruntimeconfig.cache
+C:\Users\arapt\source\repos\SimpleInheritance\SimpleInheritance\obj\Debug\net6.0\ref\SimpleInheritance.dll
